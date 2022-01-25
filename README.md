@@ -1,5 +1,9 @@
 # GDP2-proposal
 
+# UI rough sketches
+
+<img src="/images/UI.jpeg" width="380" height="480">
+
 ## Budget 
 We have 2 developers and each deverloper is charged 60$ per hour.
 
