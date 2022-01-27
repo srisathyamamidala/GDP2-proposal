@@ -24,6 +24,23 @@ User gets some pre-defined To-do's which we have added previously.
 Some To-do's can be customized on date which reminds user to complete within the time.
 The completation of To-do's gives credit to the user which motivates him to be healthy with ease.
 
+# Functional Requirements
+Create a progressive web app with authentication and authorization.
+
+1. Administrator(access to all information including app settings)
+2. User(access to their content)
+3. Head and Footer
+4. View TO-Do's
+
+# Authentication:
+The authenication is only for the Administrator, who has control over the data in the app. The authentication page must contain the following:
+
+### username, password fields
+A Captcha field to verify it's a real person and not a bot.
+A submit button to validate the credentials provided by the admin.
+If the details entered are correct, the page is redirected to admin panel.
+If the details entered are incorrect, an error message is displayed stating "Invalid credentials. Please contact the administrator"
+
 # UI rough sketches
 
 <img src="/images/UI.jpeg" width="380" height="480">
