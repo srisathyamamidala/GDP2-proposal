@@ -59,5 +59,5 @@ We have 2 developers and each deverloper is charged 60$ per hour.
 ## Backend free app host (Heroku)
 
 
-## Data host (postgresql)
+## Data host (SQLite)
 
